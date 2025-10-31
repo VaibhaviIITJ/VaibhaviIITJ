@@ -17,9 +17,9 @@
 
 ### 🔧 Tech Stack  
 **Languages:** Python | SQL  
-**ML Frameworks:** TensorFlow | PyTorch | Scikit-learn | LLM 
+**ML Frameworks:** TensorFlow | PyTorch | Scikit-learn | LLM   
 **Data Tools:** Pandas | NumPy | PostgreSQL | MongoDB  
-**DevOps & Cloud:** Docker | GCP | Git 
+**DevOps & Cloud:** Docker | GCP | Git   
 **Visualization:** Matplotlib | Seaborn | Power BI  
 
 ---
