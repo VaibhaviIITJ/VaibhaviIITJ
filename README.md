@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 **M.Tech in AI & Data Science** at **IIT Jodhpur**  
+- 🎓 **M.Tech in AI & Data Science** from **IIT Jodhpur**  
 - 💡 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Generative AI**  
 - 🚀 Currently working on projects involving **Computer Vision**, **ETL Pipelines**, and **AI-powered applications**  
 - 🌱 Always learning and exploring new technologies in **AI/ML and Cloud Computing**  
@@ -32,7 +32,7 @@
 ---
 
 ### 🌐 Connect with Me  
-<a href="https://www.linkedin.com/in/vaibhavi-kulkarni" target="_blank">
+<a href="https://www.linkedin.com/in/vaibhavimk/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kulkarnivaibhavi3011@gmail.com" target="_blank">
