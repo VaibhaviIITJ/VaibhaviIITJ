@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhavi Kulkarni</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=000080&center=true&vCenter=true&width=1000&height=60&lines=Data+Scientist;Machine+Learning+Engineer;Generative+AI+Developer;Open+to+Opportunities+in+AI,+ML,+and+GenAI!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@900&size=26&pause=1000&color=000080&center=true&vCenter=true&width=1000&height=60&lines=Data+Scientist;Open+to+Opportunities+in+Data+Science,+AI,+ML,+and+GenAI!" alt="Typing SVG" />
 </h3>
 
 ---
