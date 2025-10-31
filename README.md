@@ -7,7 +7,7 @@
 ---
 
 ### 👩‍💻 About Me  
-- 🎓 **M.Tech in AI & Data Science** from **IIT Jodhpur**  
+- 🎓 **M.Tech Data and Computational Science** from **IIT Jodhpur**  
 - 💡 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Generative AI**  
 - 🚀 Currently working on projects involving **Computer Vision**, **ETL Pipelines**, and **AI-powered applications**  
 - 🌱 Always learning and exploring new technologies in **AI/ML and Cloud Computing**  
